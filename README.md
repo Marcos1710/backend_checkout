@@ -30,7 +30,7 @@ http://127.0.0.1:3333/v1/checkouts?page=page&offset=offset - Lista todos os chec
 http://127.0.0.1:3333/v1/checkouts - Cadastra novos checkouts
 ```
 
-### 🛠 Rodando o backend e/ou os testes
+### 🛠 Rodando o backend
 
 ```bash
 # Vá para a pasta do projeto
