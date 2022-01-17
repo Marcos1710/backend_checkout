@@ -16,7 +16,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 OBS: É possível utilizar o MySQL do XAMPP também, caso prefira.
 
-Crie um banco de dados com o seguinte nome 'ecommerce' 
+Crie um banco de dados com o seguinte nome 'ecommerce' no seu SGBD.
+
 O .env não está no arquivo .gitignore, então não precisa selecionar
 nenhum tipo de configuração adicional.
 
